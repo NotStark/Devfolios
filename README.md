@@ -58,4 +58,5 @@ Make sure your portfolio satisfies the following requirements before submitting 
 - [mahdipakravan-dev](https://mpakravan.com/en)
 - [nabinkhair42](https://www.nabinkhair.com.np)
 - [surajgaud](https://www.surajgaud.com)
+- [smmariquit](https://stimmie.dev)
 - [Gii-DE](https://g-dea.com)
