@@ -63,15 +63,6 @@
     "lastFetched": 1782548755679
   },
   {
-    "name": null,
-    "username": "Gii-DE",
-    "portfolioLink": "https://gii-de.onrender.com/",
-    "followers": 0,
-    "stars": 6,
-    "popularity": 6,
-    "lastFetched": 1782377227011
-  },
-  {
     "name": "ani",
     "username": "icantcodefyi",
     "portfolioLink": "https://ani.ink",
@@ -162,15 +153,6 @@
     "lastFetched": 1782548755679
   },
   {
-    "name": "PariSh KhAn ",
-    "username": "ParishKhan",
-    "portfolioLink": "https://parish.cv",
-    "followers": 5,
-    "stars": 4,
-    "popularity": 9,
-    "lastFetched": 1782377227011
-  },
-  {
     "name": "Sat Naing",
     "username": "satnaing",
     "portfolioLink": "https://satnaing.dev",
@@ -223,5 +205,23 @@
     "stars": 380,
     "popularity": 648,
     "lastFetched": 1782762148494
+  },
+  {
+    "name": null,
+    "username": "Gii-DE",
+    "portfolioLink": "https://gii-de.onrender.com/",
+    "followers": 0,
+    "stars": 6,
+    "popularity": 6,
+    "lastFetched": 1782809769134
+  },
+  {
+    "name": "PariSh KhAn ",
+    "username": "ParishKhan",
+    "portfolioLink": "https://parish.cv",
+    "followers": 6,
+    "stars": 4,
+    "popularity": 10,
+    "lastFetched": 1782809769134
   }
 ]
