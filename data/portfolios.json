@@ -1,23 +1,5 @@
 [
   {
-    "name": null,
-    "username": "Gii-DE",
-    "portfolioLink": "https://gii-de.onrender.com/",
-    "followers": 0,
-    "stars": 6,
-    "popularity": 6,
-    "lastFetched": 1782377227011
-  },
-  {
-    "name": "PariSh KhAn ",
-    "username": "ParishKhan",
-    "portfolioLink": "https://parish.cv",
-    "followers": 5,
-    "stars": 4,
-    "popularity": 9,
-    "lastFetched": 1782377227011
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -81,6 +63,15 @@
     "lastFetched": 1782548755679
   },
   {
+    "name": null,
+    "username": "Gii-DE",
+    "portfolioLink": "https://gii-de.onrender.com/",
+    "followers": 0,
+    "stars": 6,
+    "popularity": 6,
+    "lastFetched": 1782377227011
+  },
+  {
     "name": "ani",
     "username": "icantcodefyi",
     "portfolioLink": "https://ani.ink",
@@ -126,6 +117,24 @@
     "lastFetched": 1782548755679
   },
   {
+    "name": "Mahdi Pakravan | MPakravan",
+    "username": "mahdipakravan-dev",
+    "portfolioLink": "https://mpakravan.com/en",
+    "followers": 311,
+    "stars": 91,
+    "popularity": 402,
+    "lastFetched": 1782700477665
+  },
+  {
+    "name": "Nabin Khair",
+    "username": "nabinkhair42",
+    "portfolioLink": "https://www.nabinkhair.com.np",
+    "followers": 32,
+    "stars": 112,
+    "popularity": 144,
+    "lastFetched": 1782700477665
+  },
+  {
     "name": "Chánh Đại",
     "username": "ncdai",
     "portfolioLink": "https://chanhdai.com",
@@ -153,6 +162,15 @@
     "lastFetched": 1782548755679
   },
   {
+    "name": "PariSh KhAn ",
+    "username": "ParishKhan",
+    "portfolioLink": "https://parish.cv",
+    "followers": 5,
+    "stars": 4,
+    "popularity": 9,
+    "lastFetched": 1782377227011
+  },
+  {
     "name": "Sat Naing",
     "username": "satnaing",
     "portfolioLink": "https://satnaing.dev",
@@ -160,6 +178,15 @@
     "stars": 18588,
     "popularity": 19726,
     "lastFetched": 1782548755679
+  },
+  {
+    "username": "smmariquit",
+    "name": "Stimmie",
+    "portfolioLink": "https://stimmie.dev",
+    "followers": 102,
+    "stars": 28,
+    "popularity": 130,
+    "lastFetched": 1782788828450
   },
   {
     "name": "Suraj Gaud",
@@ -187,24 +214,6 @@
     "stars": 595,
     "popularity": 778,
     "lastFetched": 1782548755679
-  },
-  {
-    "name": "Mahdi Pakravan | MPakravan",
-    "username": "mahdipakravan-dev",
-    "portfolioLink": "https://mpakravan.com/en",
-    "followers": 311,
-    "stars": 91,
-    "popularity": 402,
-    "lastFetched": 1782700477665
-  },
-  {
-    "name": "Nabin Khair",
-    "username": "nabinkhair42",
-    "portfolioLink": "https://www.nabinkhair.com.np",
-    "followers": 32,
-    "stars": 112,
-    "popularity": 144,
-    "lastFetched": 1782700477665
   },
   {
     "name": "Anish Biswas",
