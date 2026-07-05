@@ -9,15 +9,6 @@
     "lastFetched": 1782788828450
   },
   {
-    "name": "Anish Biswas",
-    "username": "xeven777",
-    "portfolioLink": "https://anish7.me",
-    "followers": 268,
-    "stars": 380,
-    "popularity": 648,
-    "lastFetched": 1782762148494
-  },
-  {
     "name": null,
     "username": "Gii-DE",
     "portfolioLink": "https://gii-de.onrender.com/",
@@ -223,5 +214,14 @@
     "stars": 112,
     "popularity": 144,
     "lastFetched": 1783153418092
+  },
+  {
+    "name": "Anish Biswas",
+    "username": "xeven777",
+    "portfolioLink": "https://anish7.me",
+    "followers": 267,
+    "stars": 381,
+    "popularity": 648,
+    "lastFetched": 1783217149395
   }
 ]
