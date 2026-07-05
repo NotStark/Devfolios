@@ -1,14 +1,5 @@
 [
   {
-    "username": "smmariquit",
-    "name": "Stimmie",
-    "portfolioLink": "https://stimmie.dev",
-    "followers": 102,
-    "stars": 28,
-    "popularity": 130,
-    "lastFetched": 1782788828450
-  },
-  {
     "name": null,
     "username": "Gii-DE",
     "portfolioLink": "https://gii-de.onrender.com/",
@@ -223,5 +214,14 @@
     "stars": 381,
     "popularity": 648,
     "lastFetched": 1783217149395
+  },
+  {
+    "name": "Stimmie",
+    "username": "smmariquit",
+    "portfolioLink": "https://stimmie.dev",
+    "followers": 104,
+    "stars": 28,
+    "popularity": 132,
+    "lastFetched": 1783240820896
   }
 ]
