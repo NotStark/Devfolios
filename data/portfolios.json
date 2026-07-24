@@ -1,23 +1,5 @@
 [
   {
-    "name": "Mahdi Pakravan | MPakravan",
-    "username": "mahdipakravan-dev",
-    "portfolioLink": "https://mpakravan.com/en",
-    "followers": 305,
-    "stars": 93,
-    "popularity": 398,
-    "lastFetched": 1784487079924
-  },
-  {
-    "name": "Nabin Khair",
-    "username": "nabinkhair42",
-    "portfolioLink": "https://www.nabinkhair.com.np",
-    "followers": 38,
-    "stars": 112,
-    "popularity": 150,
-    "lastFetched": 1784487079924
-  },
-  {
     "name": "Anish Biswas",
     "username": "xeven777",
     "portfolioLink": "https://anish7.me",
@@ -223,5 +205,23 @@
     "stars": 600,
     "popularity": 785,
     "lastFetched": 1784794313206
+  },
+  {
+    "name": "Mahdi Pakravan | MPakravan",
+    "username": "mahdipakravan-dev",
+    "portfolioLink": "https://mpakravan.com/en",
+    "followers": 307,
+    "stars": 94,
+    "popularity": 401,
+    "lastFetched": 1784920309712
+  },
+  {
+    "name": "Nabin Khair",
+    "username": "nabinkhair42",
+    "portfolioLink": "https://www.nabinkhair.com.np",
+    "followers": 38,
+    "stars": 112,
+    "popularity": 150,
+    "lastFetched": 1784920309713
   }
 ]
