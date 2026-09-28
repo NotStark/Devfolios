@@ -1,176 +1,5 @@
 [
   {
-    "name": "Alyssa X",
-    "username": "alyssaxuu",
-    "portfolioLink": "https://www.alyssax.com",
-    "followers": 9898,
-    "stars": 52837,
-    "popularity": 62735,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Anthony Fu",
-    "username": "antfu",
-    "portfolioLink": "https://antfu.me",
-    "followers": 40156,
-    "stars": 23190,
-    "popularity": 63346,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Ryan Aulia",
-    "username": "aulianza",
-    "portfolioLink": "https://aulianza.id",
-    "followers": 211,
-    "stars": 598,
-    "popularity": 809,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Braydon Coyer",
-    "username": "braydoncoyer",
-    "portfolioLink": "https://www.braydoncoyer.dev",
-    "followers": 1122,
-    "stars": 943,
-    "popularity": 2065,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Arnab Mondal",
-    "username": "codewarnab",
-    "portfolioLink": "https://codewarnab.in/",
-    "followers": 41,
-    "stars": 32,
-    "popularity": 73,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Shinn Thant",
-    "username": "devshinthant",
-    "portfolioLink": "https://devshinthant.vercel.app",
-    "followers": 94,
-    "stars": 215,
-    "popularity": 309,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Victor Eke",
-    "username": "Evavic44",
-    "portfolioLink": "https://victoreke.com",
-    "followers": 1197,
-    "stars": 7422,
-    "popularity": 8619,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "ani",
-    "username": "icantcodefyi",
-    "portfolioLink": "https://ani.ink",
-    "followers": 260,
-    "stars": 204,
-    "popularity": 464,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Israel Mitolu",
-    "username": "israelmitolu",
-    "portfolioLink": "https://www.mitolu.dev",
-    "followers": 162,
-    "stars": 212,
-    "popularity": 374,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "enscribe",
-    "username": "jktrn",
-    "portfolioLink": "https://enscribe.dev",
-    "followers": 455,
-    "stars": 1486,
-    "popularity": 1941,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Lean Rada",
-    "username": "Kalabasa",
-    "portfolioLink": "https://leanrada.com",
-    "followers": 302,
-    "stars": 2350,
-    "popularity": 2652,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "KinfeMichael Tariku",
-    "username": "Kinfe123",
-    "portfolioLink": "https://kinfish.farmui.com",
-    "followers": 625,
-    "stars": 23,
-    "popularity": 648,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Chánh Đại",
-    "username": "ncdai",
-    "portfolioLink": "https://chanhdai.com",
-    "followers": 764,
-    "stars": 3274,
-    "popularity": 4038,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Nathan M.",
-    "username": "Neosoulink",
-    "portfolioLink": "https://nathan-mande.netlify.app",
-    "followers": 101,
-    "stars": 123,
-    "popularity": 224,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "ꜱᴛᴀʀᴋ",
-    "username": "notstark",
-    "portfolioLink": "https://next-portfolio-stark.vercel.app",
-    "followers": 60,
-    "stars": 189,
-    "popularity": 249,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Sat Naing",
-    "username": "satnaing",
-    "portfolioLink": "https://satnaing.dev",
-    "followers": 1192,
-    "stars": 20757,
-    "popularity": 21949,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Suraj Gaud",
-    "username": "surajgaud",
-    "portfolioLink": "https://www.surajgaud.com",
-    "followers": 5,
-    "stars": 0,
-    "popularity": 5,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Talha Codes",
-    "username": "talhacodesdev",
-    "portfolioLink": "https://www.talhacodes.dev",
-    "followers": 3,
-    "stars": 1,
-    "popularity": 4,
-    "lastFetched": 1790130404826
-  },
-  {
-    "name": "Wisnu",
-    "username": "wiscaksono",
-    "portfolioLink": "https://wiscaksono.com",
-    "followers": 190,
-    "stars": 620,
-    "popularity": 810,
-    "lastFetched": 1790130404826
-  },
-  {
     "name": "Mahdi Pakravan | MPakravan",
     "username": "mahdipakravan-dev",
     "portfolioLink": "https://mpakravan.com/en",
@@ -223,5 +52,176 @@
     "stars": 4,
     "popularity": 10,
     "lastFetched": 1790333365232
+  },
+  {
+    "name": "Alyssa X",
+    "username": "alyssaxuu",
+    "portfolioLink": "https://www.alyssax.com",
+    "followers": 9899,
+    "stars": 52866,
+    "popularity": 62765,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Anthony Fu",
+    "username": "antfu",
+    "portfolioLink": "https://antfu.me",
+    "followers": 40176,
+    "stars": 23197,
+    "popularity": 63373,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Ryan Aulia",
+    "username": "aulianza",
+    "portfolioLink": "https://aulianza.id",
+    "followers": 212,
+    "stars": 600,
+    "popularity": 812,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Braydon Coyer",
+    "username": "braydoncoyer",
+    "portfolioLink": "https://www.braydoncoyer.dev",
+    "followers": 1123,
+    "stars": 943,
+    "popularity": 2066,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Arnab Mondal",
+    "username": "codewarnab",
+    "portfolioLink": "https://codewarnab.in/",
+    "followers": 41,
+    "stars": 32,
+    "popularity": 73,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Shinn Thant",
+    "username": "devshinthant",
+    "portfolioLink": "https://devshinthant.vercel.app",
+    "followers": 93,
+    "stars": 216,
+    "popularity": 309,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Victor Eke",
+    "username": "Evavic44",
+    "portfolioLink": "https://victoreke.com",
+    "followers": 1197,
+    "stars": 7429,
+    "popularity": 8626,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "ani",
+    "username": "icantcodefyi",
+    "portfolioLink": "https://ani.ink",
+    "followers": 257,
+    "stars": 203,
+    "popularity": 460,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Israel Mitolu",
+    "username": "israelmitolu",
+    "portfolioLink": "https://www.mitolu.dev",
+    "followers": 161,
+    "stars": 211,
+    "popularity": 372,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "enscribe",
+    "username": "jktrn",
+    "portfolioLink": "https://enscribe.dev",
+    "followers": 458,
+    "stars": 1487,
+    "popularity": 1945,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Lean Rada",
+    "username": "Kalabasa",
+    "portfolioLink": "https://leanrada.com",
+    "followers": 303,
+    "stars": 2350,
+    "popularity": 2653,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "KinfeMichael Tariku",
+    "username": "Kinfe123",
+    "portfolioLink": "https://kinfish.farmui.com",
+    "followers": 627,
+    "stars": 23,
+    "popularity": 650,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Chánh Đại",
+    "username": "ncdai",
+    "portfolioLink": "https://chanhdai.com",
+    "followers": 765,
+    "stars": 3284,
+    "popularity": 4049,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Nathan M.",
+    "username": "Neosoulink",
+    "portfolioLink": "https://nathan-mande.netlify.app",
+    "followers": 101,
+    "stars": 123,
+    "popularity": 224,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "ꜱᴛᴀʀᴋ",
+    "username": "notstark",
+    "portfolioLink": "https://next-portfolio-stark.vercel.app",
+    "followers": 61,
+    "stars": 189,
+    "popularity": 250,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Sat Naing",
+    "username": "satnaing",
+    "portfolioLink": "https://satnaing.dev",
+    "followers": 1198,
+    "stars": 21454,
+    "popularity": 22652,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Suraj Gaud",
+    "username": "surajgaud",
+    "portfolioLink": "https://www.surajgaud.com",
+    "followers": 5,
+    "stars": 0,
+    "popularity": 5,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Talha Codes",
+    "username": "talhacodesdev",
+    "portfolioLink": "https://www.talhacodes.dev",
+    "followers": 3,
+    "stars": 1,
+    "popularity": 4,
+    "lastFetched": 1790598124141
+  },
+  {
+    "name": "Wisnu",
+    "username": "wiscaksono",
+    "portfolioLink": "https://wiscaksono.com",
+    "followers": 191,
+    "stars": 620,
+    "popularity": 811,
+    "lastFetched": 1790598124141
   }
 ]
