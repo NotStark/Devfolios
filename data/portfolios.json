@@ -1,23 +1,5 @@
 [
   {
-    "name": "G's GitHub",
-    "username": "Gii-DE",
-    "portfolioLink": "https://gii-de.onrender.com/",
-    "followers": 0,
-    "stars": 7,
-    "popularity": 7,
-    "lastFetched": 1791650150064
-  },
-  {
-    "name": "PariSh KhAn ",
-    "username": "ParishKhan",
-    "portfolioLink": "https://parish.cv",
-    "followers": 7,
-    "stars": 4,
-    "popularity": 11,
-    "lastFetched": 1791650150064
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -223,5 +205,23 @@
     "stars": 33,
     "popularity": 260,
     "lastFetched": 1792060403131
+  },
+  {
+    "name": "G's GitHub",
+    "username": "Gii-DE",
+    "portfolioLink": "https://gii-de.onrender.com/",
+    "followers": 0,
+    "stars": 7,
+    "popularity": 7,
+    "lastFetched": 1792096952340
+  },
+  {
+    "name": "PariSh KhAn ",
+    "username": "ParishKhan",
+    "portfolioLink": "https://parish.cv",
+    "followers": 7,
+    "stars": 4,
+    "popularity": 11,
+    "lastFetched": 1792096952340
   }
 ]
