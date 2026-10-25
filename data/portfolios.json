@@ -1,23 +1,5 @@
 [
   {
-    "name": "Anish Biswas",
-    "username": "xeven777",
-    "portfolioLink": "https://anish7.me",
-    "followers": 275,
-    "stars": 376,
-    "popularity": 651,
-    "lastFetched": 1792492746182
-  },
-  {
-    "name": "Stimmie",
-    "username": "smmariquit",
-    "portfolioLink": "https://stimmie.dev",
-    "followers": 226,
-    "stars": 33,
-    "popularity": 259,
-    "lastFetched": 1792492746182
-  },
-  {
     "name": "G's GitHub",
     "username": "Gii-DE",
     "portfolioLink": "https://gii-de.onrender.com/",
@@ -223,5 +205,23 @@
     "stars": 119,
     "popularity": 165,
     "lastFetched": 1792923810596
+  },
+  {
+    "name": "Anish Biswas",
+    "username": "xeven777",
+    "portfolioLink": "https://anish7.me",
+    "followers": 274,
+    "stars": 375,
+    "popularity": 649,
+    "lastFetched": 1792941349437
+  },
+  {
+    "name": "Stimmie",
+    "username": "smmariquit",
+    "portfolioLink": "https://stimmie.dev",
+    "followers": 229,
+    "stars": 33,
+    "popularity": 262,
+    "lastFetched": 1792941349437
   }
 ]
